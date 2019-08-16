@@ -5,20 +5,20 @@ ONGs, principalmente de pequeno porte não possui sistemas para gerenciar suas i
 
 # funcionalidades do sistema
 
-Cadastro de produtos (itens diversos usados em ações e uma forma de controlar os ativos/bens da ong)
-Usuários
-Perfis de uso
-Projetos
-Ações
-Entidades atendidas
-Doadores (aqui entra de tudo, empresas e pf)
-associados/benefeciário  (pessoas atendidas pela ong)
-voluntários
-cadastro de contas/bancos
-Rotinas financeiras
-Emissão de boleto para doadores
-Geração de títulos a pagar e receber
-relatório de fluxo do caixa (entrada e saída)
-Rotinas de Estoque
-Cadastros de tipo de produtos
-controle de estoque
++ Cadastro de produtos (itens diversos usados em ações e uma forma de controlar os ativos/bens da ong)
++ Usuários
++ Perfis de uso
++ Projetos
++ Ações
++ Entidades atendidas
++ Doadores (aqui entra de tudo, empresas e pf)
++ associados/benefeciário  (pessoas atendidas pela ong)
++ voluntários
++ cadastro de contas/bancos
++ Rotinas financeiras
++ Emissão de boleto para doadores
++ Geração de títulos a pagar e receber
++ relatório de fluxo do caixa (entrada e saída)
++ Rotinas de Estoque
++ Cadastros de tipo de produtos
++ controle de estoque
