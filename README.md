@@ -3,7 +3,7 @@ Sistema de gerenciamento para ongs
 
 ONGs, principalmente de pequeno porte não possui sistemas para gerenciar suas informações. Existem sistemas próprios para esse setor, mas são pagos e estas não possuem condições de bancar mensalidades desses sistemas disponíveis no mercado. Logo, nossa proposta é criar um sistema aberto para comunidade, e gratuito. Licença para uso somente, sendo proibida sua revenda.
 
-#funcionalidades do sistema
+# funcionalidades do sistema
 
 Cadastro de produtos (itens diversos usados em ações e uma forma de controlar os ativos/bens da ong)
 Usuários
