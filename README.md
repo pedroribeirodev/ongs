@@ -22,3 +22,18 @@ ONGs, principalmente de pequeno porte não possui sistemas para gerenciar suas i
 + Rotinas de Estoque
 + Cadastros de tipo de produtos
 + controle de estoque
+
+# tecnologias utilizadas no projeto
+
+## backend
+
+node.js
+
+## front end
+
+reactJS
+
+
+# resumo
+
+o sistema terá uma API onde o front irá se comunicar com o mesmo, trazendo as informações em tempo real, e de forma rápida. A idéia futura é transformar o mesmo em um aplicativo mobile.
